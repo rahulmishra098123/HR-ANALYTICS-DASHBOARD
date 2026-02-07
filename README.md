@@ -28,10 +28,15 @@ The objective of this project is to analyze employee attrition patterns and help
  ## Project Insight
 
 - Attrition rate stands at 16%, which signals a retention challenge.
+  
 -Sales department shows the highest employee exits.
+
 -Young professionals (25–34) leave more frequently.
+
 -Singles show higher mobility compared to married employees.
+
 -Satisfaction ratings suggest scope for improving employee engagement.
+
  
 ## Final Conclusion
 The analysis shows that attrition is higher in specific departments and job roles, especially among younger employees. Sales positions are the most impacted, and satisfaction levels suggest there is room to improve engagement.
