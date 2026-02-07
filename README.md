@@ -10,13 +10,9 @@ The objective of this project is to analyze employee attrition patterns and help
 
 -How high is the overall attrition rate?
 
--Which departments are experiencing the most exits?\
-
--Which job roles are most affected?
+-Which departments are experiencing the most exits?
 
 -Is attrition more common in certain age groups?
-
--Does education level influence employee turnover?
 
 -How does marital status relate to attrition?
 
