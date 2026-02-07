@@ -7,19 +7,30 @@ The objective of this project is to analyze employee attrition patterns and help
 
 
 ## Questions (KPIs)
+
 -How high is the overall attrition rate?
--Which departments are experiencing the most exits?
+
+-Which departments are experiencing the most exits?\
+
 -Which job roles are most affected?
+
 -Is attrition more common in certain age groups?
+
 -Does education level influence employee turnover?
+
 -How does marital status relate to attrition?
+
 -What does job satisfaction indicate?
 
 
 ## Process
+
 -Verify data for any missing values and anomalies and sort out the same.
+
 -Made sure data is consistent and clean with respect to data type, data format and values used.
+
 -created pivot tables according to the questions asked.
+
 -Merge all pivot tables into one dashboard and apply slicer and make dynamic.
 
  ## Dashboard
