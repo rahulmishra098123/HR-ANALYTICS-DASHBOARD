@@ -36,7 +36,7 @@ The objective of this project is to analyze employee attrition patterns and help
 
 - Attrition rate stands at 16%, which signals a retention challenge.
   
--Sales department shows the highest employee exits.
+- R&D Department shows the highest employee exits.
 
 -Young professionals (25–34) leave more frequently.
 
