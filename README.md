@@ -38,11 +38,11 @@ The objective of this project is to analyze employee attrition patterns and help
   
 - R&D Department shows the highest employee exits.
 
--Young professionals (25–34) leave more frequently.
+- Young professionals (25–34) leave more frequently.
 
--Singles show higher mobility compared to married employees.
+- Singles show higher mobility compared to married employees.
 
--Satisfaction ratings suggest scope for improving employee engagement.
+- Satisfaction ratings suggest scope for improving employee engagement.
 
  
 ## Final Conclusion
